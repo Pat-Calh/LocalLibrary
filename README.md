@@ -4,9 +4,22 @@ Put Together/Followed by Patrick Calhoun
 
 Elements to this project:
 
-- [ ] full implementation???
 
-create all the routes for our site, along with dummy controller functions:
+Views and Templates:
+
+- [ ] Describe asynchronous functions. 
+- [ ] Manage asynchronous operations in controller functions. 
+- [ ] Manage flow control when using asynchronous operations. 
+- [ ] Create and extend templates. 
+- [ ] Write templates using Pug. 
+- [ ] Pass information to a template from your view. 
+- [ ] Implement read-only pages. 
+- [ ] Describe how routes works. 
+- [ ] Describe how views and models work in practice. 
+- [ ] Query database using models. 
+- [ ] Describe date handling using moment.
+
+create all the routes for our site, along with dummy controller functions, with basic express generator setup:
 
 - [X] test routes are working properly
 - [X] finished setting up routes
