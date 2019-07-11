@@ -7,11 +7,11 @@ Elements to this project:
 
 Views and Templates:
 
-- [ ] Describe asynchronous functions. 
-- [ ] Manage asynchronous operations in controller functions. 
-- [ ] Manage flow control when using asynchronous operations. 
-- [ ] Create and extend templates. 
-- [ ] Write templates using Pug. 
+- [X] Describe asynchronous functions. 
+- [X] Manage asynchronous operations in controller functions. 
+- [X] Manage flow control when using asynchronous operations. 
+- [X] Create and extend templates. 
+- [X] Write templates using Pug. 
 - [ ] Pass information to a template from your view. 
 - [ ] Implement read-only pages. 
 - [ ] Describe how routes works. 
