@@ -3,7 +3,14 @@ This is the LocalLibrary project from the MDN web docs
 Put Together/Followed by Patrick Calhoun
 
 Elements to this project:
-- [ ] add controllers
+
+- [ ] full implementation???
+
+create all the routes for our site, along with dummy controller functions:
+
+- [X] test routes are working properly
+- [X] finished setting up routes
+- [X] add controllers
 - [X] test project database
 - [x] setup nodemon
 - [X] get the 'index' routes working
