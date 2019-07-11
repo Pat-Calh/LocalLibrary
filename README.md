@@ -12,7 +12,7 @@ Views and Templates:
 - [X] Manage flow control when using asynchronous operations. 
 - [X] Create and extend templates. 
 - [X] Write templates using Pug. 
-- [ ] Pass information to a template from your view. 
+- [X] Pass information to a template from your view. 
 - [ ] Implement read-only pages. 
 - [ ] Describe how routes works. 
 - [ ] Describe how views and models work in practice. 
