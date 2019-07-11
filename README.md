@@ -17,7 +17,7 @@ Views and Templates:
 - [ ] Describe how routes works. 
 - [ ] Describe how views and models work in practice. 
 - [ ] Query database using models. 
-- [ ] Describe date handling using moment.
+- [X] Describe date handling using moment.
 
 create all the routes for our site, along with dummy controller functions, with basic express generator setup:
 
