@@ -9,7 +9,7 @@ exports.genre_list = function(req, res) {
                 return next(err);
             }
             //if succesfull
-            res.render('genre_list', { name: 'Genre list', genre_list: list_genre });
+            res.render('genre_list', { title: 'Genre list', genre_list: list_genre });
         });
 };
 
