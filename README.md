@@ -13,10 +13,10 @@ Views and Templates:
 - [X] Create and extend templates. 
 - [X] Write templates using Pug. 
 - [X] Pass information to a template from your view. 
-- [ ] Implement read-only pages. 
-- [ ] Describe how routes works. 
-- [ ] Describe how views and models work in practice. 
-- [ ] Query database using models. 
+- [X] Implement read-only pages. 
+- [X] Describe how routes works. 
+- [X] Describe how views and models work in practice. 
+- [X] Query database using models. 
 - [X] Describe date handling using moment.
 
 create all the routes for our site, along with dummy controller functions, with basic express generator setup:
