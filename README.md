@@ -31,3 +31,5 @@ create all the routes for our site, along with dummy controller functions, with 
         -was done with Atlas
 - [X] setup templates to be done with .pug
 - [X] setup Express Framework with generator
+
+this is a test
