@@ -32,4 +32,3 @@ create all the routes for our site, along with dummy controller functions, with 
 - [X] setup templates to be done with .pug
 - [X] setup Express Framework with generator
 
-this is a test
